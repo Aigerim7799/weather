@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+html, body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.wallpapertip.com/wmimgs/230-2306498_uk-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    width: 200px;
+    height: 70px;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-top: 10%;
+    outline: none;
+}
+button{
+    width: 80px;
+    height: 40px;
+    border-radius: 30px;
+    outline: none;
+    font-family: 'Satisfy', cursive;
+    background-color: rgb(6, 50, 68);
+    color: aliceblue;
+    font-weight: 700;
+}
+#output{
+    width: 500px;
+    height: 400px;
+    font-family: 'Satisfy', cursive;
+    background-color:rgb(6, 50, 68) ;
+    margin-top: 1%;
+    margin-left: 20%;
+    border-radius: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 700;
+    top: 1%;
+}
